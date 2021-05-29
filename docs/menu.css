@@ -1,0 +1,24 @@
+body {
+  background: black;
+}
+.Clases img {
+  text-align: center;
+  border-radius: 50%;
+  width: 100%;
+}
+.lista {
+  border-radius: 20px;
+  background: white;
+  size: 10px;
+  color: black;
+}
+.lista h3 {
+  text-align: center;
+  size: 20px;
+}
+.Clases p {
+  color: red;
+}
+.text p {
+  color: slategrey;
+}

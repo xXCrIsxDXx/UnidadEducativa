@@ -1,0 +1,17 @@
+body {
+  background: url(img/fondo.jpg);
+}
+h1 {
+  color: red;
+  font-size: 300%;
+  text-decoration: underline;
+  text-align: center;
+}
+h2 {
+  text-align: right;
+  font-size: 180%;
+}
+p {
+  font-size: 120%;
+  text-align: center;
+}

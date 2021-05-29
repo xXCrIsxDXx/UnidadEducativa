@@ -1,0 +1,45 @@
+body {
+  background-image: url(img/fondo.jpg);
+  font-family: Arial;
+}
+h2 {
+  text-align: center;
+  font-size: 60px;
+  text-decoration: underline;
+}
+p {
+  font-size: 20px;
+}
+#contenedor1 {
+  width: 600px;
+  margin: 150px auto;
+  color: black;
+}
+table {
+  background-color: white;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+td {
+  border: solid 1px black;
+  padding: 10px;
+  text-align: center;
+}
+
+#contenedor2 {
+  width: 600px;
+  margin: 150px auto;
+  color: black;
+}
+table {
+  background-color: white;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+td {
+  border: solid 1px black;
+  padding: 10px;
+  text-align: center;
+}

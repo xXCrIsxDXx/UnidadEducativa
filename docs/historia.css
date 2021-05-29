@@ -1,0 +1,23 @@
+body {
+  background: url(img/fondo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+  color: red;
+  border-radius: 20px;
+  background-color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+img {
+  float: right;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.img1 img {
+  width: 40%;
+}
